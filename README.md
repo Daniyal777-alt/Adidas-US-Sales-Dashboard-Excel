@@ -21,7 +21,7 @@ Covers sales from January 2020 to December 2021. Includes retailer info, product
 Microsoft Excel — Pivot Tables, Charts, Slicers, Data Model, Conditional Formatting
 
 --> Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]![Dashboard](2026-06-18%2015_54_01-Adidas%20US%20Sales%20Datasets%20(Recovered)%20-%20Excel.png)
 
 --> Files
 - `Adidas_US_Sales_Dashboard.xlsx` — Main file with data + pivots + dashboard
